@@ -1,24 +1,14 @@
-# README
+# HRMS [Rails 7 + Hotwire (Turbo + Stimulus)]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Steps used to generate this project:
 
-Things you may want to cover:
+```
+rails new HRMS -j esbuild -c tailwind -d postgresql
+rails db:create
+rails db:migrate
+rails s
+```
 
-* Ruby version
+## Admin panel:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+We'll use active admin for admin panel.
