@@ -1,7 +1,8 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# HRMS - powered by RoR
+
+A Humon Resourse Management System as a SAAS. 
+
 
 Things you may want to cover:
 
